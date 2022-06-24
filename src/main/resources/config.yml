@@ -1,0 +1,37 @@
+whitelist:
+  enable: true
+  players: []
+
+announcer_period: 5 #в минутах
+announcer:
+  купи_донат_пж:
+    message_key: BUNGEE_ANNOUNCER_DONATE_MESSAGE
+    hover_key: BUNGEE_ANNOUNCER_DONATE_HOVER
+    click:
+      action: OPEN_URL
+      context: 'https://tynixcloud.ru/'
+
+  #мы_оч_крутые:
+  #  message_key: BUNGEE_ANNOUNCER_COOL_MESSAGE
+  #  hover_key: BUNGEE_ANNOUNCER_COOL_HOVER
+  #
+  #ахуеть:
+  #  message_key: BUNGEE_ANNOUNCER_TEST_COMMAND_MESSAGE
+  #  hover_key: BUNGEE_ANNOUNCER_TEST_COMMAND_HOVER
+  #  click:
+  #    action: SUGGEST_COMMAND
+  #    context: '/test'
+  #
+  #я_дебошир_мне_похуй:
+  #  message_key: BUNGEE_ANNOUNCER_TEST_COMMAND_MESSAGE
+  #  hover_key: BUNGEE_ANNOUNCER_TEST_COMMAND_HOVER
+  #  click:
+  #    action: RUN_COMMAND
+  #    context: '/crash'
+
+  скопируй_наш_ip:
+    message_key: BUNGEE_ANNOUNCER_IP_COPY_MESSAGE
+    hover_key: BUNGEE_ANNOUNCER_IP_COPY_HOVER
+    click:
+      action: COPY_TO_CLIPBOARD
+      context: 'mc.tynixcloud.ru'

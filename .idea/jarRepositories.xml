@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="destroystokyo-repo" />
+      <option name="name" value="destroystokyo-repo" />
+      <option name="url" value="https://repo.destroystokyo.com/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="sonatype" />
+      <option name="name" value="sonatype" />
+      <option name="url" value="https://oss.sonatype.org/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="plazmix-maven" />
+      <option name="name" value="plazmix-maven" />
+      <option name="url" value="https://maven.plazmix.space/repository/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="gitlab-maven-19" />
+      <option name="name" value="gitlab-maven-19" />
+      <option name="url" value="https://gitlab.plazmix.space/api/v4/projects/19/packages/maven" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="gitlab-maven-20" />
+      <option name="name" value="gitlab-maven-20" />
+      <option name="url" value="https://gitlab.plazmix.space/api/v4/projects/20/packages/maven" />
+    </remote-repository>
+  </component>
+</project>
